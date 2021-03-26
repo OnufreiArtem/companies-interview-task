@@ -26,6 +26,6 @@ public interface ICompanyService {
 
 ```
 
-You need to figure out what you need to do by your own :D
+You need to implement interface methods.
 
-So, that is my resolve.
+So, this is my solution.
